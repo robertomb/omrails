@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'rails', '4.0.0'
+gem 'devise'
+gem 'protected_attributes'
 
 group :production do
   gem 'pg'
