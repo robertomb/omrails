@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.0'
 gem 'devise'
 gem 'protected_attributes'
+gem 'simple_form'
 
 group :production do
   gem 'pg'
