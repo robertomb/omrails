@@ -4,6 +4,7 @@ gem 'rails', '4.0.0'
 gem 'devise'
 gem 'protected_attributes'
 gem 'simple_form'
+gem "paperclip", "~> 3.0"
 
 group :production do
   gem 'pg'

@@ -16,3 +16,6 @@
 /tmp
 *.swp
 *.log
+
+#Ignore the public system folder
+/public/system
