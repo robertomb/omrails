@@ -19,3 +19,6 @@
 
 #Ignore the public system folder
 /public/system
+
+#Ignore sample images
+/sampleimages

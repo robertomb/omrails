@@ -5,6 +5,8 @@ gem 'devise'
 gem 'protected_attributes'
 gem 'simple_form'
 gem "paperclip", "~> 3.0"
+gem 'aws-sdk'
+gem 'faker'
 
 group :production do
   gem 'pg'
